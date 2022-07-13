@@ -21,10 +21,9 @@
 <a href="https://app.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png" alt="tailwind" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bakhtyar25&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="bakhtyar25" /></p> 
-<br/><br/><br/><br/><br/><br/><br/><br/>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bakhtyar25&show_icons=true&theme=dark&title_color=cf0772&text_color=2fd0cd&hide_border=true&locale=en" alt="bakhtyar25" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bakhtyar25&theme=react)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api?username=Bakhtyar25&theme=react&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Bakhtyar25&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bakhtyar25&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
