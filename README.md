@@ -2,9 +2,7 @@
 <h3 align="center">A passionate frontend developer from Kurdistan</h3>
 
 
-- 🔭 I’m currently working on [My Portfolio](https://baxtyar.netlify.app/)
-
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Next JS 13**
 
 - ⚡ Fun fact **can't center a div at the first try 😅**
 
