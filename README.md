@@ -20,6 +20,6 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=Bakhtyar25&theme=react&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Bakhtyar25&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bakhtyar25&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=bakhtyar25&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bakhtyar25&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bakhtyar25&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
