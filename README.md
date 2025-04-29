@@ -3,9 +3,6 @@
 <h3 align="center">A passionate frontend developer from Kurdistan</h3>
 
 
-- 🌱 I’m currently learning **Next JS 13**
-
-- ⚡ Fun fact **can't center a div at the first try 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
